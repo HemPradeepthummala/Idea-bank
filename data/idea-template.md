@@ -1,13 +1,11 @@
 # Title Here
 
-## 📌 Basic Information
+### Basic Information
 - **Name**:
+- **Git repo**:
 ---
-
-## Problem Statement
-__write the problem statement here__
-
+### Problem Statement
+> **write the problem statement here**
 ---
-
-## 💡 Idea Summary
-__share your thoughts__
+### Idea Summary
+ *share your thoughts here*
